@@ -2,6 +2,6 @@
 # and copy the client id and secret below
 
 zoho:
-  client_id: CLIENT_ID
-  client_secret: CLIENT_SECRET
+  client_id: 1000.MLHGHW8L352W03EHE8NCWXIHOQ2GFM
+  client_secret: 2c77d525d3f78e7559af283b09d4cf17958582af71
 redirect_uri: "https://example.com" #do not change
