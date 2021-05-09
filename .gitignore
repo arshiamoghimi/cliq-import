@@ -1,0 +1,8 @@
+.idea
+.venv
+*.iml
+__pycache__/
+
+token
+users.json
+concat.json
